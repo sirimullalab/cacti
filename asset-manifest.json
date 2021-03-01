@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/cacti/static/css/main.a75af469.chunk.css",
-    "main.js": "/cacti/static/js/main.a79a2452.chunk.js",
-    "main.js.map": "/cacti/static/js/main.a79a2452.chunk.js.map",
+    "main.js": "/cacti/static/js/main.8e1c59d9.chunk.js",
+    "main.js.map": "/cacti/static/js/main.8e1c59d9.chunk.js.map",
     "runtime-main.js": "/cacti/static/js/runtime-main.544b62ac.js",
     "runtime-main.js.map": "/cacti/static/js/runtime-main.544b62ac.js.map",
     "static/css/2.2b2406dc.chunk.css": "/cacti/static/css/2.2b2406dc.chunk.css",
-    "static/js/2.b3514e07.chunk.js": "/cacti/static/js/2.b3514e07.chunk.js",
-    "static/js/2.b3514e07.chunk.js.map": "/cacti/static/js/2.b3514e07.chunk.js.map",
+    "static/js/2.a8328e37.chunk.js": "/cacti/static/js/2.a8328e37.chunk.js",
+    "static/js/2.a8328e37.chunk.js.map": "/cacti/static/js/2.a8328e37.chunk.js.map",
     "static/js/3.89d938d0.chunk.js": "/cacti/static/js/3.89d938d0.chunk.js",
     "static/js/3.89d938d0.chunk.js.map": "/cacti/static/js/3.89d938d0.chunk.js.map",
     "index.html": "/cacti/index.html",
     "static/css/2.2b2406dc.chunk.css.map": "/cacti/static/css/2.2b2406dc.chunk.css.map",
     "static/css/main.a75af469.chunk.css.map": "/cacti/static/css/main.a75af469.chunk.css.map",
-    "static/js/2.b3514e07.chunk.js.LICENSE.txt": "/cacti/static/js/2.b3514e07.chunk.js.LICENSE.txt",
+    "static/js/2.a8328e37.chunk.js.LICENSE.txt": "/cacti/static/js/2.a8328e37.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/cacti/static/media/logo.6ce24c58.svg",
     "static/media/index.css": "/cacti/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.544b62ac.js",
     "static/css/2.2b2406dc.chunk.css",
-    "static/js/2.b3514e07.chunk.js",
+    "static/js/2.a8328e37.chunk.js",
     "static/css/main.a75af469.chunk.css",
-    "static/js/main.a79a2452.chunk.js"
+    "static/js/main.8e1c59d9.chunk.js"
   ]
 }
