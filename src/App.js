@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <CssBaseline />
       <Welcome/>
-      
+      <About/>
     </div>
     
   );
